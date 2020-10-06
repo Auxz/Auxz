@@ -15,4 +15,5 @@
 
 
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nomadzz&show_icons=true&hide_border=false" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nomadzz&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>  
