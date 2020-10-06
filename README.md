@@ -1,16 +1,18 @@
-### Hi there 👋
+### Tools and Languages
+<img align="left" alt="C++" width="26px" src="https://i.imgur.com/eyGLS1H.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://cdn.isabelle.gg/vs.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/EsQdflw.png" />  
+<img align="left" alt="Discord.JS" width="26px" src="https://i.imgur.com/UwIIbzi.png" />
 
-<!--
-**Nomadzz/Nomadzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+--- 
+
+
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nomadzz&show_icons=true&hide_border=false" />
