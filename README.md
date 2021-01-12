@@ -1,17 +1,13 @@
-### Tools
-<img align="left" alt="Visual Studio" width="26px" src="https://cdn.isabelle.gg/vs.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/EsQdflw.png" />  
-<img align="left" alt="MySQL" width="30px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />  
+<h3 align="center">Cybersecurity Enthusiast</h3>
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=auxz&label=Profile%20views&color=0e75b6&style=flat" alt="auxz" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auxz" alt="auxz" /></a> </p>
 
-
+- 🌱 I’m currently learning **C++, JavaScript, Lua, and Databases**
 
 
---- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Auxz&&show_icons=true" alt="Pramod's Github Stats">
-</p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=auxz&show_icons=true&locale=en" alt="auxz" /></p>
