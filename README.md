@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auxz" alt="auxz" /></a> </p>
 
-- 💻 I’m currently learning **C++, JavaScript, Data Structures and Algorithms**
+- 💻 I’m currently learning **C++, JavaScript, and Cybersecurity**
 
 
 <h3 align="left">Languages and Tools:</h3>
