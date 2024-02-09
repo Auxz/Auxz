@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring student software engineer based in Orlando, FL. I am currently re-entering<br>programming after a hiatus, and am re-learning C++, Python and common tools such as<br>SQL and Linux. I have work experience in networking and general I.T.
+I am a Network Engineer/Admin studying full-time for a Bachelor's in Computer Science.
 
 
 # 💻 Tech Stack:
