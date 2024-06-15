@@ -18,8 +18,5 @@ I am a Network Engineer/Admin studying full-time for a Bachelor's in Computer Sc
 ---
 [![](https://visitcount.itsvg.in/api?id=Auxz&icon=8&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/legionzones@gmail.com) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
